@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/react-http-zaprosy/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-http-zaprosy/static/js/main.792b333e.chunk.js",
-    "main.js.map": "/react-http-zaprosy/static/js/main.792b333e.chunk.js.map",
-    "runtime-main.js": "/react-http-zaprosy/static/js/runtime-main.dc673077.js",
-    "runtime-main.js.map": "/react-http-zaprosy/static/js/runtime-main.dc673077.js.map",
-    "static/js/2.0f71c312.chunk.js": "/react-http-zaprosy/static/js/2.0f71c312.chunk.js",
-    "static/js/2.0f71c312.chunk.js.map": "/react-http-zaprosy/static/js/2.0f71c312.chunk.js.map",
-    "static/js/3.ffcb55bf.chunk.js": "/react-http-zaprosy/static/js/3.ffcb55bf.chunk.js",
-    "static/js/3.ffcb55bf.chunk.js.map": "/react-http-zaprosy/static/js/3.ffcb55bf.chunk.js.map",
+    "main.css": "/react-http-zaprosy/static/css/main.50923c45.chunk.css",
+    "main.js": "/react-http-zaprosy/static/js/main.69f83fc3.chunk.js",
+    "main.js.map": "/react-http-zaprosy/static/js/main.69f83fc3.chunk.js.map",
+    "runtime-main.js": "/react-http-zaprosy/static/js/runtime-main.ddb4865e.js",
+    "runtime-main.js.map": "/react-http-zaprosy/static/js/runtime-main.ddb4865e.js.map",
+    "static/css/2.2ab3243f.chunk.css": "/react-http-zaprosy/static/css/2.2ab3243f.chunk.css",
+    "static/js/2.5b293ba2.chunk.js": "/react-http-zaprosy/static/js/2.5b293ba2.chunk.js",
+    "static/js/2.5b293ba2.chunk.js.map": "/react-http-zaprosy/static/js/2.5b293ba2.chunk.js.map",
     "index.html": "/react-http-zaprosy/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-http-zaprosy/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0f71c312.chunk.js.LICENSE.txt": "/react-http-zaprosy/static/js/2.0f71c312.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-http-zaprosy/static/media/logo.6ce24c58.svg"
+    "static/css/2.2ab3243f.chunk.css.map": "/react-http-zaprosy/static/css/2.2ab3243f.chunk.css.map",
+    "static/css/main.50923c45.chunk.css.map": "/react-http-zaprosy/static/css/main.50923c45.chunk.css.map",
+    "static/js/2.5b293ba2.chunk.js.LICENSE.txt": "/react-http-zaprosy/static/js/2.5b293ba2.chunk.js.LICENSE.txt",
+    "static/media/error.903400b1.jpg": "/react-http-zaprosy/static/media/error.903400b1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc673077.js",
-    "static/js/2.0f71c312.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.792b333e.chunk.js"
+    "static/js/runtime-main.ddb4865e.js",
+    "static/css/2.2ab3243f.chunk.css",
+    "static/js/2.5b293ba2.chunk.js",
+    "static/css/main.50923c45.chunk.css",
+    "static/js/main.69f83fc3.chunk.js"
   ]
 }
